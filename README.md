@@ -74,4 +74,4 @@ The contact form currently shows a success message but doesn't send data. To mak
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License.
